@@ -1,0 +1,8 @@
+{
+
+    "ordering": [
+        "domains",
+        "divisions",
+        "entities"
+    ]
+}

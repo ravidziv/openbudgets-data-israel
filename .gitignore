@@ -1,0 +1,8 @@
+.Python
+.DS_Store
+*.idea
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.db
+*.pyc
