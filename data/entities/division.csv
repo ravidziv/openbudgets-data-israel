@@ -1,7 +1,7 @@
-ID,DOMAIN,NAME,NAME_EN,NAME_AR,NAME_RU,INDEX,BUDGETING
-,ממשלה,מדינה,State,بلد,Государство,0,TRUE
-,ממשלה,מחוז,District,حي,Округ,1,FALSE
-,ממשלה,נפה,Sub-District,غربال,Подокруг,2,FALSE
-,ממשלה,עירייה,City Municipality,دار البلدية,Городской совет,3,TRUE
-,ממשלה,מועצה מקומית,Local Municipality,مجلس بلدي,Местный совет,3,TRUE
-,ממשלה,מועצה אזורית,Regional Municipality,المجلس الإقليمي,Региональный совет,3,TRUE
+ID,DOMAIN,NAME,NAME_EN,NAME_AR,NAME_RU,INDEX,BUDGETING
+ae08725526144e3ca88c018c12dd5045,ממשלה,מדינה,State,بلد,Государство,0,TRUE
+9db7d0e798a94f36beea19f6af302952,ממשלה,מחוז,District,حي,Округ,1,FALSE
+64b2af58d08f41abb9bf12769f1d768d,ממשלה,נפה,Sub-District,غربال,Подокруг,2,FALSE
+8187f32648014fd6bf61df5b4826cf36,ממשלה,עירייה,City Municipality,دار البلدية,Городской совет,3,TRUE
+9da3a955046b44c48f5d3f237fd0cbc6,ממשלה,מועצה מקומית,Local Municipality,مجلس بلدي,Местный совет,3,TRUE
+7851cd6e88de42419ef1e9500959e1ba,ממשלה,מועצה אזורית,Regional Municipality,المجلس الإقليمي,Региональный совет,3,TRUE
